@@ -3,9 +3,9 @@ MindSparkBot is a customizable AI-powered chatbot built with Streamlit, LangChai
 Overview
 
 MindSparkBot is a multilingual theme-customizable and personality-driven AI chatbot built with Streamlit LangChain and Groq API.
-It’s designed to feel more human-like expressive and supportive—whether you want motivation learning assistance or casual conversation according to yuor need.
+It’s designed to feel more human-like expressive and supportive whether you want motivation learning assistance or casual conversation according to yuor need.
 
-Every time you open the app, you’re welcomed with the current time date and a fresh motivational quote or joke ✨.
+Every time you open the app, you’re welcomed with the current time date and a fresh motivational quote or joke.
 
 
  Features
