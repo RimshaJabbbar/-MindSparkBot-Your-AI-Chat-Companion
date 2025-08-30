@@ -1,5 +1,7 @@
 MindSparkBot-Your-AI-Chat-Companion
+
 MindSparkBot is a customizable AI-powered chatbot built with Streamlit, LangChain, and Groq API.
+
 Overview
 
 MindSparkBot is a multilingual theme-customizable and personality-driven AI chatbot built with Streamlit LangChain and Groq API.
